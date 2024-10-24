@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "The Total Money Makeover",
+        "author": "Dave Ramsey",
+        "thumbnail": "/images/Book1.png",
+        "link": "https://www.amazon.com/dp/1595555277",
+        "description": "A proven plan for financial fitness, helping you get out of debt and achieve financial freedom."
+    },
+    {
+        "id": 2,
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert T. Kiyosaki",
+        "thumbnail": "/images/Book2.png",
+        "link": "https://www.amazon.com/dp/1612680194",
+        "description": "A guide to financial independence, contrasting the perspectives of a 'rich dad' and a 'poor dad.'"
+    },
+    {
+        "id": 3,
+        "title": "The Intelligent Investor",
+        "author": "Benjamin Graham",
+        "thumbnail": "/images/Book3.png",
+        "link": "https://www.amazon.com/dp/0062312685",
+        "description": "A classic on value investing that focuses on long-term strategies for success in stock markets."
+    },
+    {
+        "id": 4,
+        "title": "Your Money or Your Life",
+        "author": "Vicki Robin",
+        "thumbnail": "/images/Book4.png",
+        "link": "https://www.amazon.com/dp/0143115766",
+        "description": "This book teaches readers how to achieve financial independence by transforming their relationship with money."
+    },
+    {
+        "id": 5,
+        "title": "The Millionaire Next Door",
+        "author": "Thomas J. Stanley",
+        "thumbnail": "/images/Book5.png",
+        "link": "https://www.amazon.com/dp/1589795474",
+        "description": "A look at the habits and characteristics of millionaires, based on extensive research."
+    },
+    {
+        "id": 6,
+        "title": "The Barefoot Investor",
+        "author": "Scott Pape",
+        "thumbnail": "/images/Book6.png",
+        "link": "https://www.amazon.com/Barefoot-Investor-Money-Guide-Youll/dp/0730324214",
+        "description": "An Australian guide to financial independence, offering practical advice for saving, budgeting, and investing."
+    },
+    {
+        "id": 7,
+        "title": "I Will Teach You to Be Rich",
+        "author": "Ramit Sethi",
+        "thumbnail": "/images/Book7.png",
+        "link": "https://www.amazon.com/Will-Teach-You-Be-Rich/dp/0761147489",
+        "description": "A practical guide to managing money, paying off debt, and living a 'rich life' on your own terms."
+    },
+    {
+        "id": 8,
+        "title": "The Little Book of Common Sense Investing",
+        "author": "John C. Bogle",
+        "thumbnail": "/images/Book8.png",
+        "link": "https://www.amazon.com/dp/1119404509",
+        "description": "This book advocates for low-cost index fund investing and long-term wealth accumulation."
+    },
+    {
+        "id": 9,
+        "title": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "thumbnail": "/images/Book9.png",
+        "link": "https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331",
+        "description": "A personal development and self-improvement book that offers insights on achieving wealth and success."
+    },
+    {
+        "id": 10,
+        "title": "Financial Freedom: A Proven Path to All the Money You Will Ever Need",
+        "author": "Grant Sabatier",
+        "thumbnail": "/images/Book10.png",
+        "link": "https://www.amazon.com/Financial-Freedom-Proven-Path-Money/dp/0525540881",
+        "description": "A guide to achieving financial independence, covering investing, saving, and lifestyle adjustments."
+    },
+    {
+        "id": 11,
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "thumbnail": "/images/Book11.png",
+        "link": "https://www.amazon.com/dp/0857197681",
+        "description": "Explores the emotional and psychological aspects of personal finance, focusing on attitudes and behavior."
+    },
+    {
+        "id": 12,
+        "title": "Broke Millennial",
+        "author": "Erin Lowry",
+        "thumbnail": "/images/Book12.png",
+        "link": "https://www.amazon.com/Broke-Millennial-Scraping-Financial-Together/dp/0143130404",
+        "description": "A financial guide aimed at millennials, offering advice on dealing with student debt, budgeting, and saving."
+    }
+]

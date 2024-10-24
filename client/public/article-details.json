@@ -1,0 +1,194 @@
+[
+    {
+      "id": 1,
+      "title": "The Importance of Saving Early",
+      "description": "Discover why saving early is crucial for financial stability and how compound interest can work in your favor.",
+      "thumbnail": "/images/Article2.png",
+      "link": "/articles/importance-of-saving-early",
+      "progress": 100,
+      "tags": ["Saving", "Compound Interest"],
+      "content": "Saving early allows your money to grow over time through the power of compound interest. The earlier you start saving, the more you benefit from the interest earned on both the initial amount saved and the interest that accumulates. This article explores various strategies for starting to save early and the long-term benefits of doing so.",
+      "extraLinks": [
+        {
+          "title": "The Power of Compound Interest",
+          "url": "https://www.investopedia.com/terms/c/compoundinterest.asp"
+        },
+        {
+          "title": "Saving Money: Best Tips",
+          "url": "https://www.moneyunder30.com/how-to-save-money"
+        },
+        {
+          "title": "Why Start Saving for Retirement Now?",
+          "url": "https://www.nerdwallet.com/article/investing/why-start-saving-for-retirement-now"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Understanding Credit Scores",
+      "description": "Learn what a credit score is, how it's calculated, and how to improve your credit rating.",
+      "thumbnail": "/images/Article1.png",
+      "link": "/articles/understanding-credit-scores",
+      "progress": 60,
+      "tags": ["Credit", "Finance"],
+      "content": "Your credit score is a numerical representation of your creditworthiness, calculated based on your credit history. This article explains how credit scores are calculated, the factors that influence them, and practical steps you can take to improve your credit rating.",
+      "extraLinks": [
+        {
+          "title": "How Credit Scores Work",
+          "url": "https://www.experian.com/blogs/news/2020/07/how-credit-scores-work/"
+        },
+        {
+          "title": "Tips for Improving Your Credit Score",
+          "url": "https://www.thebalance.com/ways-to-improve-credit-score-960544"
+        },
+        {
+          "title": "Free Credit Score Check",
+          "url": "https://www.creditkarma.com/free-credit-score"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Tips for Reducing Debt",
+      "description": "Practical advice on how to reduce your debt and manage your finances more effectively.",
+      "thumbnail": "/images/Article3.png",
+      "link": "/articles/tips-for-reducing-debt",
+      "progress": 80,
+      "tags": ["Debt Management", "Financial Planning"],
+      "content": "Managing and reducing debt is crucial for financial stability. This article provides practical tips on how to create a debt repayment plan, negotiate with creditors, and avoid accumulating more debt while managing your finances effectively.",
+      "extraLinks": [
+        {
+          "title": "How to Get Out of Debt",
+          "url": "https://www.debt.org/advice/how-to-get-out-of-debt/"
+        },
+        {
+          "title": "Debt Repayment Strategies",
+          "url": "https://www.nerdwallet.com/article/finance/debt-repayment-strategies"
+        },
+        {
+          "title": "Understanding Debt Consolidation",
+          "url": "https://www.bankrate.com/loans/debt-consolidation/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Creating a Budget Plan",
+      "description": "Learn how to create an effective budget plan to track your spending and save more money.",
+      "thumbnail": "/images/Article4.png",
+      "link": "/articles/creating-a-budget-plan",
+      "progress": 90,
+      "tags": ["Budgeting", "Finance"],
+      "content": "A well-structured budget plan is essential for managing your finances. This article outlines the steps to create a budget, including tracking your income and expenses, setting financial goals, and adjusting your spending habits to stay within your budget.",
+      "extraLinks": [
+        {
+          "title": "Budgeting 101: How to Start Budgeting",
+          "url": "https://www.daveramsey.com/blog/how-to-make-a-budget"
+        },
+        {
+          "title": "The 50/30/20 Rule for Budgeting",
+          "url": "https://www.investopedia.com/terms/1/50-30-20-rule.asp"
+        },
+        {
+          "title": "Best Budgeting Tools",
+          "url": "https://www.thebalance.com/best-budgeting-tools-4160377"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Investing for Beginners",
+      "description": "A guide for beginners on how to start investing, including basic investment strategies and options.",
+      "thumbnail": "/images/Article5.png",
+      "link": "/articles/investing-for-beginners",
+      "progress": 70,
+      "tags": ["Investing", "Personal Finance"],
+      "content": "Investing can be a powerful way to grow your wealth over time. This guide introduces basic investment strategies, including stocks, bonds, and mutual funds, and offers tips for getting started with investing for beginners.",
+      "extraLinks": [
+        {
+          "title": "Beginner’s Guide to Investing",
+          "url": "https://www.thebalance.com/beginners-guide-to-investing-4074033"
+        },
+        {
+          "title": "How to Invest in Stocks",
+          "url": "https://www.investopedia.com/articles/basics/06/invest1000.asp"
+        },
+        {
+          "title": "Investing Basics for New Investors",
+          "url": "https://www.nerdwallet.com/article/investing/investing-101"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Retirement Planning Essentials",
+      "description": "Understand the basics of retirement planning and how to ensure you have enough funds for a comfortable retirement.",
+      "thumbnail": "/images/Article6.png",
+      "link": "/articles/retirement-planning-essentials",
+      "progress": 50,
+      "tags": ["Retirement", "Financial Planning"],
+      "content": "Planning for retirement is crucial to ensure you have enough funds to live comfortably. This article covers essential aspects of retirement planning, including setting retirement goals, estimating future expenses, and investing in retirement accounts.",
+      "extraLinks": [
+        {
+          "title": "Retirement Planning: A Guide",
+          "url": "https://www.fidelity.com/viewpoints/retirement/retirement-planning"
+        },
+        {
+          "title": "How Much to Save for Retirement",
+          "url": "https://www.nerdwallet.com/article/investing/how-much-to-save-for-retirement"
+        },
+        {
+          "title": "Types of Retirement Accounts",
+          "url": "https://www.investopedia.com/articles/retirement/08/types-retirement-accounts.asp"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Building an Emergency Fund",
+      "description": "Find out why an emergency fund is important and how to build one to prepare for unexpected expenses.",
+      "thumbnail": "/images/Article7.png",
+      "link": "/articles/building-an-emergency-fund",
+      "progress": 85,
+      "tags": ["Emergency Fund", "Saving"],
+      "content": "An emergency fund is a critical component of financial security. This article explains the importance of having an emergency fund, how much you should save, and practical tips for building and maintaining this fund.",
+      "extraLinks": [
+        {
+          "title": "How to Build an Emergency Fund",
+          "url": "https://www.moneyunder30.com/build-emergency-fund"
+        },
+        {
+          "title": "Why You Need an Emergency Fund",
+          "url": "https://www.thebalance.com/why-you-need-an-emergency-fund-960519"
+        },
+        {
+          "title": "Emergency Fund Calculator",
+          "url": "https://www.nerdwallet.com/article/banking/emergency-fund-calculator"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Managing Student Loans",
+      "description": "Explore strategies for managing and repaying student loans effectively to minimize financial stress.",
+      "thumbnail": "/images/Article8.png",
+      "link": "/articles/managing-student-loans",
+      "progress": 75,
+      "tags": ["Student Loans", "Debt Management"],
+      "content": "Managing student loans can be challenging, but with the right strategies, you can reduce your financial burden. This article offers advice on repayment options, consolidating loans, and tips for managing your student loan debt.",
+      "extraLinks": [
+        {
+          "title": "How to Manage Your Student Loans",
+          "url": "https://www.thebalance.com/ways-to-manage-your-student-loans-4798230"
+        },
+        {
+          "title": "Student Loan Repayment Options",
+          "url": "https://studentaid.gov/manage-loans/repayment/plans"
+        },
+        {
+            "title": "Tips for Paying Off Student Loans Faster",
+            "url": "https://www.nerdwallet.com/article/loans/student-loans/pay-off-student-loans-faster"
+          }
+        ]
+    }
+]  

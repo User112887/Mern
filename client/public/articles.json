@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "The Importance of Saving Early",
+    "description": "Discover why saving early is crucial for financial stability and how compound interest can work in your favor.",
+    "thumbnail": "/images/Article2.png",
+    "link": "/articles/importance-of-saving-early",
+    "progress": 100,
+    "tags": ["Saving", "Compound Interest"]
+  },
+  {
+    "id": 2,
+    "title": "Understanding Credit Scores",
+    "description": "Learn what a credit score is, how it's calculated, and how to improve your credit rating.",
+    "thumbnail": "/images/Article1.png",
+    "link": "/articles/understanding-credit-scores",
+    "progress": 60,
+    "tags": ["Credit", "Finance"]
+  },
+  {
+    "id": 3,
+    "title": "Tips for Reducing Debt",
+    "description": "Practical advice on how to reduce your debt and manage your finances more effectively.",
+    "thumbnail": "/images/Article3.png",
+    "link": "/articles/tips-for-reducing-debt",
+    "progress": 80,
+    "tags": ["Debt Management", "Financial Planning"]
+  },
+  {
+    "id": 4,
+    "title": "Creating a Budget Plan",
+    "description": "Learn how to create an effective budget plan to track your spending and save more money.",
+    "thumbnail": "/images/Article4.png",
+    "link": "/articles/creating-a-budget-plan",
+    "progress": 90,
+    "tags": ["Budgeting", "Finance"]
+  },
+  {
+    "id": 5,
+    "title": "Investing for Beginners",
+    "description": "A guide for beginners on how to start investing, including basic investment strategies and options.",
+    "thumbnail": "/images/Article5.png",
+    "link": "/articles/investing-for-beginners",
+    "progress": 70,
+    "tags": ["Investing", "Personal Finance"]
+  },
+  {
+    "id": 6,
+    "title": "Retirement Planning Essentials",
+    "description": "Understand the basics of retirement planning and how to ensure you have enough funds for a comfortable retirement.",
+    "thumbnail": "/images/Article6.png",
+    "link": "/articles/retirement-planning-essentials",
+    "progress": 50,
+    "tags": ["Retirement", "Financial Planning"]
+  },
+  {
+    "id": 7,
+    "title": "Building an Emergency Fund",
+    "description": "Find out why an emergency fund is important and how to build one to prepare for unexpected expenses.",
+    "thumbnail": "/images/Article7.png",
+    "link": "/articles/building-an-emergency-fund",
+    "progress": 85,
+    "tags": ["Emergency Fund", "Saving"]
+  },
+  {
+    "id": 8,
+    "title": "Managing Student Loans",
+    "description": "Explore strategies for managing and repaying student loans effectively to minimize financial stress.",
+    "thumbnail": "/images/Article8.png",
+    "link": "/articles/managing-student-loans",
+    "progress": 75,
+    "tags": ["Student Loans", "Debt Management"]
+  }
+]

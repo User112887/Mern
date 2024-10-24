@@ -1,0 +1,74 @@
+.tutorial-details {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #16213e;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.tutorial-details h1 {
+    color: #00ffff;
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+.tutorial-details img {
+    width: 100%;
+    border-radius: 8px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.tutorial-details p {
+    color: #ffffff;
+    line-height: 1.6;
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+.video-container {
+    margin-bottom: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.video-container video {
+    width: 100%;
+    border: none;
+}
+
+.back-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #00ffff;
+    color: #16213e;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+    font-weight: bold;
+}
+
+.back-button:hover {
+    background-color: #16213e;
+    color: #00ffff;
+}
+
+.extra-content {
+    background-color: #0f3460;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+.extra-content h2 {
+    color: #00ffff;
+    margin-bottom: 10px;
+}
+
+.extra-content p {
+    color: #ffffff;
+}

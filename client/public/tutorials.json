@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Personal Finance",
+    "description": "Learn the basics of managing your personal finances, including budgeting, saving, and investing.",
+    "thumbnail": "/images/Tutorial1.png",
+    "link": "/tutorials/personal-finance-introduction",
+    "progress": 75,
+    "tags": ["Finance", "Budgeting", "Investing"]
+  },
+  {
+    "id": 2,
+    "title": "How to Create a Budget",
+    "description": "Step-by-step guide on how to create a budget that works for you and helps you achieve your financial goals.",
+    "thumbnail": "/images/Tutorial2.png",
+    "link": "/tutorials/how-to-create-a-budget",
+    "progress": 40,
+    "tags": ["Budgeting", "Planning"]
+  },
+  {
+    "id": 3,
+    "title": "Investing for Beginners",
+    "description": "An introduction to investing, including different types of investments and how to get started.",
+    "thumbnail": "/images/Tutorial3.png",
+    "link": "/tutorials/investing-for-beginners",
+    "progress": 90,
+    "tags": ["Investing", "Wealth Building"]
+  },
+  {
+    "id": 4,
+    "title": "Debt Management Strategies",
+    "description": "Tips and strategies to manage and reduce debt effectively.",
+    "thumbnail": "/images/Tutorial4.png",
+    "link": "/tutorials/debt-management-strategies",
+    "progress": 50,
+    "tags": ["Debt", "Finance", "Planning"]
+  },
+  {
+    "id": 5,
+    "title": "Understanding Credit Scores",
+    "description": "Learn what credit scores are, how they are calculated, and how to improve your score.",
+    "thumbnail": "/images/Tutorial5.png",
+    "link": "/tutorials/understanding-credit-scores",
+    "progress": 65,
+    "tags": ["Credit", "Finance"]
+  },
+  {
+    "id": 6,
+    "title": "Saving for Retirement",
+    "description": "A guide to saving and investing for retirement, including different retirement accounts and strategies.",
+    "thumbnail": "/images/Tutorial6.png",
+    "link": "/tutorials/saving-for-retirement",
+    "progress": 80,
+    "tags": ["Retirement", "Investing", "Planning"]
+  },
+  {
+    "id": 7,
+    "title": "Building an Emergency Fund",
+    "description": "Learn how to build and maintain an emergency fund for financial security.",
+    "thumbnail": "/images/Tutorial7.png",
+    "link": "/tutorials/building-emergency-fund",
+    "progress": 90,
+    "tags": ["Saving", "Finance", "Security"]
+  },
+  {
+    "id": 8,
+    "title": "Tax Planning Basics",
+    "description": "An overview of tax planning and strategies to reduce tax liability.",
+    "thumbnail": "/images/Tutorial8.png",
+    "link": "/tutorials/tax-planning-basics",
+    "progress": 70,
+    "tags": ["Taxes", "Finance"]
+  }
+]

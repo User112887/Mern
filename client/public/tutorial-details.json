@@ -1,0 +1,106 @@
+{
+  "1": {
+    "id": 1,
+    "title": "Introduction to Personal Finance",
+    "description": "Learn the basics of managing your personal finances, including budgeting, saving, and investing.",
+    "content": "In this tutorial, we cover the essential aspects of personal finance, starting with budgeting. You will learn how to track your income and expenses, create financial goals, and manage your money efficiently. We also dive into saving strategies, exploring the importance of building an emergency fund, and discuss basic investment principles to help you grow your wealth over time.",
+    "thumbnail": "/images/Tutorial1.png",
+    "videoUrl": "https://www.youtube.com/watch?v=RB0YLEKjPWs",
+    "extraLinks": [
+      { "title": "Personal Finance Basics", "url": "https://www.investopedia.com/terms/p/personal-finance.asp" },
+      { "title": "Financial Literacy Guide", "url": "https://www.consumerfinance.gov/consumer-tools/educator-tools/financial-education-glossary/" },
+      { "title": "Beginner's Guide to Saving", "url": "https://www.nerdwallet.com/article/finance/how-to-save-money" }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "title": "How to Create a Budget",
+    "description": "Step-by-step guide on how to create a budget that works for you and helps you achieve your financial goals.",
+    "content": "This tutorial will guide you through the process of creating a budget tailored to your personal needs. We'll cover key budgeting principles, like calculating your total income, categorizing your expenses, and setting realistic financial goals. By the end, you'll have a personalized budget to manage your spending, reduce debt, and save for the future.",
+    "thumbnail": "/images/Tutorial2.png",
+    "videoUrl": "https://www.youtube.com/watch?v=-vVp185Sq24",
+    "extraLinks": [
+      { "title": "Budgeting 101", "url": "https://www.thebalance.com/how-to-make-a-budget-1289587" },
+      { "title": "50/30/20 Budgeting Rule", "url": "https://www.investopedia.com/terms/1/50-30-20-rule.asp" },
+      { "title": "Creating a Realistic Budget", "url": "https://www.nerdwallet.com/article/finance/how-to-make-a-budget" }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "title": "Investing for Beginners",
+    "description": "An introduction to investing, including different types of investments and how to get started.",
+    "content": "In this tutorial, you will learn the basics of investing, from stocks and bonds to mutual funds and ETFs. We'll break down the key principles of investment, explain the risk-return tradeoff, and help you understand how to diversify your portfolio. This guide is designed to give beginners the confidence to start their investment journey and build wealth over time.",
+    "thumbnail": "/images/Tutorial3.png",
+    "videoUrl": "https://www.youtube.com/watch?v=8Ij7A1VCB7I",
+    "extraLinks": [
+      { "title": "Investing 101", "url": "https://www.investopedia.com/investing-4427685" },
+      { "title": "How to Start Investing", "url": "https://www.nerdwallet.com/article/investing/how-to-invest-money" },
+      { "title": "Diversification Strategies", "url": "https://www.fidelity.com/learning-center/investment-products/mutual-funds/diversification" }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "title": "Debt Management Strategies",
+    "description": "Tips and strategies to manage and reduce debt effectively.",
+    "content": "Managing debt can be overwhelming, but with the right strategies, you can take control of your finances. This tutorial covers techniques for reducing high-interest debt, consolidating loans, and negotiating with creditors. You'll also learn how to prioritize debt payments and avoid common pitfalls that can make your debt grow.",
+    "thumbnail": "/images/Tutorial4.png",
+    "videoUrl": "https://www.youtube.com/watch?v=8x1-Ftp5k4I",
+    "extraLinks": [
+      { "title": "Debt Reduction Tips", "url": "https://www.nerdwallet.com/article/finance/how-to-get-out-of-debt" },
+      { "title": "Debt Consolidation Guide", "url": "https://www.bankrate.com/loans/debt-consolidation/" },
+      { "title": "Managing High-Interest Debt", "url": "https://www.investopedia.com/articles/personal-finance/122815/how-get-out-credit-card-debt.asp" }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "title": "Understanding Credit Scores",
+    "description": "Learn what credit scores are, how they are calculated, and how to improve your score.",
+    "content": "Your credit score is a key factor in determining your financial health. This tutorial explains how credit scores are calculated, what factors influence them, and how to improve your score over time. You'll also learn tips on managing your credit report and why maintaining a good credit score is essential for securing loans and favorable interest rates.",
+    "thumbnail": "/images/Tutorial5.png",
+    "videoUrl": "https://www.youtube.com/watch?v=T5UHXCrW0gI",
+    "extraLinks": [
+      { "title": "How Credit Scores Work", "url": "https://www.experian.com/blogs/news/2019/07/how-credit-scores-work/" },
+      { "title": "Improving Your Credit Score", "url": "https://www.bankrate.com/finance/credit-cards/how-to-improve-credit-score/" },
+      { "title": "Credit Report Basics", "url": "https://www.nerdwallet.com/article/finance/credit-report" }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "title": "Saving for Retirement",
+    "description": "A guide to saving and investing for retirement, including different retirement accounts and strategies.",
+    "content": "Planning for retirement is crucial for financial security. In this tutorial, we cover various retirement accounts like 401(k)s, IRAs, and Roth IRAs, explaining their tax advantages and how to maximize your contributions. You'll also learn investment strategies that can help you grow your retirement savings and secure your future.",
+    "thumbnail": "/images/Tutorial6.png",
+    "videoUrl": "https://www.youtube.com/watch?v=JxdUWsudi6g",
+    "extraLinks": [
+      { "title": "Retirement Planning 101", "url": "https://www.investopedia.com/articles/personal-finance/100516/retirement-planning-basics.asp" },
+      { "title": "Understanding 401(k)s", "url": "https://www.nerdwallet.com/article/investing/what-is-a-401k" },
+      { "title": "IRA Basics", "url": "https://www.bankrate.com/investing/ira/" }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "title": "Building an Emergency Fund",
+    "description": "Learn how to build and maintain an emergency fund for financial security.",
+    "content": "An emergency fund acts as a financial safety net for unexpected expenses. This tutorial explains the importance of having 3-6 months' worth of living expenses saved up and offers practical advice on how to start building your fund. You'll also learn how to manage your emergency fund over time, ensuring you always have a cushion in times of need.",
+    "thumbnail": "/images/Tutorial7.png",
+    "videoUrl": "https://www.youtube.com/watch?v=UE6PapZxYIs",
+    "extraLinks": [
+      { "title": "Building an Emergency Fund", "url": "https://www.investopedia.com/articles/pf/08/emergency-fund.asp" },
+      { "title": "Emergency Fund Tips", "url": "https://www.nerdwallet.com/article/banking/how-to-build-an-emergency-fund" },
+      { "title": "Why You Need an Emergency Fund", "url": "https://www.thebalance.com/how-to-build-an-emergency-fund-416546" }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "title": "Tax Planning Basics",
+    "description": "An overview of tax planning and strategies to reduce tax liability.",
+    "content": "Tax planning is an essential part of managing your finances. This tutorial covers the basics of tax planning, including how to optimize deductions, take advantage of tax credits, and lower your taxable income. You'll also learn about strategies for retirement accounts and investments that can help reduce your tax burden.",
+    "thumbnail": "/images/Tutorial8.png",
+    "videoUrl": "https://www.youtube.com/watch?v=Cox8rLXYAGQ",
+    "extraLinks": [
+      { "title": "Tax Planning Guide", "url": "https://www.investopedia.com/terms/t/tax-planning.asp" },
+      { "title": "Maximizing Tax Deductions", "url": "https://www.nerdwallet.com/article/taxes/tax-deductions" },
+      { "title": "Tax Credits and Deductions", "url": "https://www.irs.gov/credits-deductions-for-individuals" }
+    ]
+  }
+}
