@@ -1,13 +1,10 @@
 const express = require('express');
 const cors = require('cors');
 const mongoose = require('mongoose');
-const jwt = require('jsonwebtoken');
-const User = require('../Models/User');
-const bcrypt = require('bcryptjs')
-const verifyToken = require('../verifyToken')
-const authRoutes = require('../routes/authRoutes');
-const expenseroutes = require('../routes/expenseroutes');
-const incomeroutes = require('../routes/incomeroutes');
+const verifyToken = require('./verifyToken')
+const authRoutes = require('./routes/authRoutes');
+const expenseroutes = require('./routes/expenseroutes');
+const incomeroutes = require('./routes/incomeroutes');
 
 require('dotenv').config();
 
@@ -38,9 +35,9 @@ app.use('/api/expenses', expenseroutes);
 
 app.use('/api/incomes', incomeroutes);
 */}
-app.use('./netlify/functions/api', authRoutes)
-app.use('./netlify/functions/api/expenses', expenseroutes)
-app.use('./netlify/functions/api/incomes', incomeroutes)
+app.use('/api', authRoutes)
+app.use('/api/expenses', expenseroutes)
+app.use('/api/incomes', incomeroutes)
 
 
 
