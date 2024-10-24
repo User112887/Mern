@@ -2,12 +2,12 @@ const express = require('express');
 const cors = require('cors');
 const mongoose = require('mongoose');
 const jwt = require('jsonwebtoken');
-const User = require('./Models/User');
+const User = require('../Models/User');
 const bcrypt = require('bcryptjs')
-const verifyToken = require('./verifyToken')
-const authRoutes = require('./routes/authRoutes');
-const expenseroutes = require('./routes/expenseroutes');
-const incomeroutes = require('./routes/incomeroutes');
+const verifyToken = require('../verifyToken')
+const authRoutes = require('./authRoutes');
+const expenseroutes = require('./expenseroutes');
+const incomeroutes = require('./incomeroutes');
 
 require('dotenv').config();
 
