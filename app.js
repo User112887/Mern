@@ -8,11 +8,7 @@ const incomeroutes = require('./routes/incomeroutes');
 
 require('dotenv').config();
 
-
-
 const app = express();
-const PORT = process.env.PORT || 5001;
-
 // MongoDB connection URI
 const uri = "mongodb+srv://yllkamehmeti:Yllka123456@cluster0.qovfrni.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 mongoose.connect(uri, {});
@@ -27,34 +23,12 @@ connection.once('open', () => {
 app.use(cors());
 app.use(express.json());
 
-
-
-{/*app.use('/api', authRoutes);
-
-app.use('/api/expenses', expenseroutes);
-
-app.use('/api/incomes', incomeroutes);
-*/}
 app.use('/api', authRoutes)
 app.use('/api/expenses', expenseroutes)
 app.use('/api/incomes', incomeroutes)
 
-
-
 app.get('/api/check-token', verifyToken, (req, res) => {
-
   res.json(req.user);
-
 })
 
-
-
-/
-
-// Start the server
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
-
-
-
+module.exports = app;
