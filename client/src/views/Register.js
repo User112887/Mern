@@ -32,7 +32,7 @@ import {
     console.log(name,email, password);
   
   try {
-    const response = await axios.post("http://localhost:5001/api/register", {
+    const response = await axios.post("https://incandescent-mousse-761677.netlify.app/api/register", {
       name,
       email,
       password,

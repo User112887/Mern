@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:5001/api",
+  baseURL: "https://incandescent-mousse-761677.netlify.app/api",
   headers: {
     'Content-Type': 'application/json',
   }

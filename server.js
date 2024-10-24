@@ -32,12 +32,15 @@ app.use(express.json());
 
 
 
-app.use('/api', authRoutes);
+{/*app.use('/api', authRoutes);
 
 app.use('/api/expenses', expenseroutes);
 
 app.use('/api/incomes', incomeroutes);
-
+*/}
+app.use('./netlify/functions/api', authRoutes)
+app.use('./netlify/functions/api/expenses', expenseroutes)
+app.use('./netlify/functions/api/incomes', incomeroutes)
 
 
 

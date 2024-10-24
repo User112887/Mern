@@ -7,7 +7,7 @@ const UserList = () => {
     useEffect(() => {
         const fetchUsers = async () => {
             try {
-                const result = await axios.get('http://localhost:5001/api/users');
+                const result = await axios.get('https://incandescent-mousse-761677.netlify.app/api/users');
                 setUsers(result.data); // Update users state with fetched data
             } catch (error) {
                 console.error('Error fetching users:', error);
